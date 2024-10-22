@@ -21661,6 +21661,18 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2401,
+      "name": "MDMS2 create",
+      "url": "/mdms-v2/v2/_create/TempSchemaCode",
+      "parentModule": "",
+      "displayName": "MDMS2create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "MDMS2",
+      "code": "null",
+      "path": ""
     }
   ]
 }
